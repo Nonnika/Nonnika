@@ -9,4 +9,6 @@
 - 🔖Now learning C++&ACM OK NOW included JAVA \\:?~?:/
 - 🗺️Exploring
 - 🤯Keep learning :)
-  
+
+## My recent project
+- [AgentCMD](https://github.com/Nonnika/AgentCMD) a simple agent project to learn agent.
