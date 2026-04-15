@@ -6,9 +6,10 @@
 
 ## My recent situation🖥️  
 
-- 🔖Now learning C++&ACM OK NOW included JAVA \\:?~?:/
+- 🔖Now learning C++&ACM \:?~?:/
+- 🛰️Learning golang for backend development
 - 🗺️Exploring
 - 🤯Keep learning :)
 
 ## My recent project
-- [AgentCMD](https://github.com/Nonnika/AgentCMD) a simple agent project to learn agent.
+- [AgentCMD](https://github.com/Nonnika/AgentCMD) a simple agent project to learn agent
