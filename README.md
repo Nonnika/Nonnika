@@ -32,30 +32,24 @@ I’m mainly focused on **backend development**, while also exploring
 
 ---
 
-## 🚧 Recent Project
+## 📊 GitHub Activity
 
-### PIMS
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nonnika&show_icons=true&theme=github_dark&hide_border=true&hide_rank=false&cache_seconds=86400&custom_title=Nonnika's%20GitHub%20Stats" alt="Nonnika's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nonnika&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" alt="Nonnika's Top Languages" />
+</div>
 
-A simple **Procurement Inbound Management System**.
+<br/>
 
-It is designed to practice backend development, database design, API structure,  
-and basic enterprise management system architecture.
+<div align="center">
+  <img
+    src="https://ghchart.rshah.org/58a6ff/Nonnika"
+    alt="Nonnika's GitHub Contribution Grid"
+  />
+</div>
 
 ---
 
-## 📌 Current Focus
-
-```txt
-Backend Development
-├── Golang
-├── Java
-├── Kotlin
-├── MySQL
-├── Linux
-├── Git / GitHub
-├── Project Architecture
-└── Engineering Practice
-```
 ## 🌱 Motto
 
 > Keep learning. Keep thinking. Keep building.
