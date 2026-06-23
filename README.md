@@ -12,4 +12,4 @@
 - 🤯Keep learning :)
 
 ## My recent project
-- [AgentCMD](https://github.com/Nonnika/AgentCMD) a simple agent project to learn agent
+- [PIMS](https://github.com/Nonnika/Purchase-Inbound-Management-System) A simple procurement management system
