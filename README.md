@@ -39,8 +39,8 @@ I’m mainly focused on **backend development**, while also exploring
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nonnika&theme=github_dark" alt="Nonnika's GitHub Stats" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nonnika&theme=github_dark" alt="Nonnika's Top Languages" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=Nonnika&show_icons=true&theme=github_dark&hide_border=true&hide_rank=false&rank_icon=default&cache_seconds=86400&custom_title=Nonnika's%20GitHub%20Stats" alt="Nonnika's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Nonnika&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" alt="Nonnika's Top Languages" />
 </div>
 
 <br/>
