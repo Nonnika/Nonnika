@@ -2,8 +2,8 @@
 
 Software Engineering student · Building backend systems, native tools & agentic workflows
 
-[![Blog](https://img.shields.io/badge/Blog-alphazero.top-18181B?style=for-the-badge&labelColor=27272A&logo=rss&logoColor=F97316)](https://blog.alphazero.top/)
-[![Email](https://img.shields.io/badge/Email-SunCanHelpU%40outlook.com-18181B?style=for-the-badge&labelColor=27272A&logo=minutemailer&logoColor=38BDF8)](mailto:SunCanHelpU@outlook.com)
+[![Blog](https://img.shields.io/badge/Blog-alphazero.top-F97316?style=for-the-badge&logo=rss&logoColor=white)](https://blog.alphazero.top/)
+[![Email](https://img.shields.io/badge/Email-SunCanHelpU%40outlook.com-0078D4?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:SunCanHelpU@outlook.com)
 
 ---
 
@@ -44,22 +44,22 @@ I focus on **backend development**, **systems & compiler theory**, and building 
 
 **Languages**
 
-![Rust](https://img.shields.io/badge/Rust-18181B?style=for-the-badge&logo=rust&logoColor=DEA584)
-![Go](https://img.shields.io/badge/Go-18181B?style=for-the-badge&logo=go&logoColor=00ADD8)
-![Java](https://img.shields.io/badge/Java-18181B?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![Kotlin](https://img.shields.io/badge/Kotlin-18181B?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
-![Swift](https://img.shields.io/badge/Swift-18181B?style=for-the-badge&logo=swift&logoColor=F05138)
-![Python](https://img.shields.io/badge/Python-18181B?style=for-the-badge&logo=python&logoColor=FFD43B)
-![TypeScript](https://img.shields.io/badge/TypeScript-18181B?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Rust](https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Systems & Tools**
 
-![Linux](https://img.shields.io/badge/Linux-18181B?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Docker](https://img.shields.io/badge/Docker-18181B?style=for-the-badge&logo=docker&logoColor=2496ED)
-![MySQL](https://img.shields.io/badge/MySQL-18181B?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Flutter](https://img.shields.io/badge/Flutter-18181B?style=for-the-badge&logo=flutter&logoColor=54C5F8)
-![Git](https://img.shields.io/badge/Git-18181B?style=for-the-badge&logo=git&logoColor=F05032)
-![Vim](https://img.shields.io/badge/Vim-18181B?style=for-the-badge&logo=vim&logoColor=019733)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-11AB00?style=for-the-badge&logo=vim&logoColor=white)
 
 ## GitHub Activity
 
