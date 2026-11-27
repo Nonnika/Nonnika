@@ -2,7 +2,8 @@
 
 Software Engineering student · Building backend systems, native tools & agentic workflows
 
-[Blog](https://blog.alphazero.top/) · [Email](mailto:SunCanHelpU@outlook.com)
+[![Blog](https://img.shields.io/badge/Blog-alphazero.top-18181B?style=for-the-badge&labelColor=27272A&logo=rss&logoColor=F97316)](https://blog.alphazero.top/)
+[![Email](https://img.shields.io/badge/Email-SunCanHelpU%40outlook.com-18181B?style=for-the-badge&labelColor=27272A&logo=minutemailer&logoColor=38BDF8)](mailto:SunCanHelpU@outlook.com)
 
 ---
 
@@ -41,13 +42,24 @@ I focus on **backend development**, **systems & compiler theory**, and building 
 
 ## Tech Stack
 
-<p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust,go,java,kotlin,swift,py,ts,linux,docker,mysql,flutter,git,vim&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=rust,go,java,kotlin,swift,py,ts,linux,docker,mysql,flutter,git,vim&theme=light" />
-    <img alt="Tech Stack" src="https://skillicons.dev/icons?i=rust,go,java,kotlin,swift,py,ts,linux,docker,mysql,flutter,git,vim&theme=light" />
-  </picture>
-</p>
+**Languages**
+
+![Rust](https://img.shields.io/badge/Rust-18181B?style=for-the-badge&logo=rust&logoColor=DEA584)
+![Go](https://img.shields.io/badge/Go-18181B?style=for-the-badge&logo=go&logoColor=00ADD8)
+![Java](https://img.shields.io/badge/Java-18181B?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![Kotlin](https://img.shields.io/badge/Kotlin-18181B?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
+![Swift](https://img.shields.io/badge/Swift-18181B?style=for-the-badge&logo=swift&logoColor=F05138)
+![Python](https://img.shields.io/badge/Python-18181B?style=for-the-badge&logo=python&logoColor=FFD43B)
+![TypeScript](https://img.shields.io/badge/TypeScript-18181B?style=for-the-badge&logo=typescript&logoColor=3178C6)
+
+**Systems & Tools**
+
+![Linux](https://img.shields.io/badge/Linux-18181B?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Docker](https://img.shields.io/badge/Docker-18181B?style=for-the-badge&logo=docker&logoColor=2496ED)
+![MySQL](https://img.shields.io/badge/MySQL-18181B?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Flutter](https://img.shields.io/badge/Flutter-18181B?style=for-the-badge&logo=flutter&logoColor=54C5F8)
+![Git](https://img.shields.io/badge/Git-18181B?style=for-the-badge&logo=git&logoColor=F05032)
+![Vim](https://img.shields.io/badge/Vim-18181B?style=for-the-badge&logo=vim&logoColor=019733)
 
 ## GitHub Activity
 
